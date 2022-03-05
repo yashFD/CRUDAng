@@ -28,7 +28,7 @@
       "id": 6,
       "productname": "samsung fold 3",
       "productdescription": "foldable phone v3",
-      "price": "145000"
+      "price": "120000"
     },
     {
       "id": 7,
@@ -53,6 +53,12 @@
       "productname": "Redmi note 10",
       "productdescription": "Midrange smartphone",
       "price": "15500"
+    },
+    {
+      "id": 11,
+      "productname": "narzo ",
+      "productdescription": "smartphone",
+      "price": "14999"
     }
   ]
 }
